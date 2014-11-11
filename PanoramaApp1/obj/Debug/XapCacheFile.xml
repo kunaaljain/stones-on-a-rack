@@ -1,0 +1,12 @@
+﻿<xapCache source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Bin\Debug\PanoramaApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="26/10/2014 12:21:05 AM">
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\obj\Debug\PanoramaApp1.dll" archivePath="PanoramaApp1.dll" lastWriteTime="26/10/2014 12:21:03 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="26/10/2014 12:20:52 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="26/10/2014 12:20:52 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="26/10/2014 12:20:52 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="26/10/2014 12:20:52 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="26/10/2014 12:20:52 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="26/10/2014 12:21:04 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="26/10/2014 12:20:52 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="26/10/2014 12:20:52 AM" />
+  <file source="I:\Development\Windows Apps\PanoramaApp1\PanoramaApp1\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="26/10/2014 12:21:04 AM" />
+</xapCache>
